@@ -1,2 +1,3 @@
 name: Sam Screech, Lab Tech
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
